@@ -16,7 +16,7 @@
 
 <resources>
     <!-- Whether to show a preference item for mobile plan -->
-    <bool name="config_show_mobile_plan">false</bool>
+    <bool name="config_show_mobile_plan">true</bool>
 
     <!-- Whether wallpaper attribution should be shown or not. -->
     <bool name="config_show_wallpaper_attribution">false</bool>
